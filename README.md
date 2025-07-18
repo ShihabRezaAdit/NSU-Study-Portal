@@ -7,7 +7,7 @@
 
 ## Project Contributors
 - **Monirul Islam**
-- **Shihab Reza Adit**  
+- **Md Shihab Reza**  
 - **Hafeza Akter**  
 
 
